@@ -13,8 +13,8 @@
     "test": "npm run test --workspaces --if-present"
   },
   "workspaces": [
-    "apps/*",
-    "packages/*"
+    "packages/*",
+    "apps/*"
   ],
   "engines": {
     "node": ">=20"
